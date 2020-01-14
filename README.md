@@ -1,3 +1,5 @@
 # Python-assignments
-Python school assignments
-Programming School Assignment Repository 
+<ul>
+  <li>Python school assignments</li>
+  <li>Programming School Assignment Repository </li>
+</ul

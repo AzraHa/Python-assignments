@@ -9,7 +9,6 @@ def vrati_faktorijel(n):
     for i in range(1, n+1):
         rez *= i
     return rez
-    #print("Evo me")
 
 ispisi_faktorijel(5)
 x = vrati_faktorijel(5)

@@ -20,4 +20,4 @@ def analiza_stringa(s):
         print("Broj space-ova", br_space)
 
 
-analiza_stringa("Danas radimo stringoVe. 1")
+analiza_stringa("StrinGovi 1")

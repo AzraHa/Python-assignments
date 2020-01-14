@@ -7,6 +7,5 @@ def vrati_srednji_element(lista):
 
 lista = [4, 3, 1, 2, 5]
 print(lista)
-#lista.sort()
-#print(lista)
+
 print(vrati_srednji_element(lista))
